@@ -1,4 +1,4 @@
-![Mars Artists Community](https://cloud.githubusercontent.com/assets/9756546/11694376/c3515278-9e77-11e5-925f-066f27c048f0.png)
+![Mars Artists Community](https://cloud.githubusercontent.com/assets/9756546/11696333/baf22850-9e81-11e5-8bfb-c9a452885ef3.png)
 
 ##Launch Complex 39
 [SpaceX Launch Complex 39A](https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39)
