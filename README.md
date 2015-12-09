@@ -7,4 +7,4 @@ Manned Research Station Prepositioned by [MCT](https://en.wikipedia.org/wiki/Mar
 #Launch Complex 39
 [SpaceX Launch Complex 39A](https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39)
 
-License: CC0 Use it, abuse it. (We'd appreciate it if you add your own similar models for vehicles, suits, habs and such to help create a permanent open-source repository of resources for depicting human settlement of Mars.)
+###License: CC0 Use it, abuse it. (We'd appreciate it if you add your own similar models for vehicles, suits, habs and such to help create a permanent open-source repository of resources for depicting human settlement of Mars.)
