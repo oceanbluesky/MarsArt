@@ -1,1 +1,3 @@
-# MarsArt
+# Mars Artists Community
+
+
