@@ -13,7 +13,7 @@
 
 
 ##Research Station
-Initial decade of expansion from InstaBase to a city nucleus
+Initial decade of expansion from InstaBase to city nucleus
 
 
 
